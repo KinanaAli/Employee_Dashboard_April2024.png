@@ -12,3 +12,6 @@ Average salaries and working hours during April 2024
 
 🔍 The dashboard uses a sample of 10 employees for visualization purposes.
 
+
+#PowerBI #HRDashboard #EmployeeAnalytics #DataVisualization #BusinessIntelligence #DataAnalytics #DashboardDesign #April2024
+
